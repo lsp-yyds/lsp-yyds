@@ -28,7 +28,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lsp-yyds&show_icons=true&theme=gotham" alt="lsp-yyds" />
 
 
-![Snake animation](https://github.com/lsp-yyds/lsp-yyds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lsp-yyds/lsp-yyds/blob/main/github-contribution-grid-snake.svg)
 
 - That's a daily reminder from God to live every day being fearless. :yin_yang:
-<img src="https://raw.githubusercontent.com/lsp-yyds/lsp-yyds/main/tenor.gif" object-fit="contain" align="right" width="100%" >
+<img src="https://github.com/lsp-yyds/lsp-yyds/blob/main/tenor_1.gif" align="right" width="100%" >
