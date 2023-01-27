@@ -25,7 +25,11 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lsp-yyds&show_icons=true&theme=gotham" alt="lsp-yyds" />
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lsp-yyds&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lsp-yyds&title_color=fff&bg_color=151515&theme=tokyonight">
+</p>
+
 
 
 ![Snake animation](https://github.com/lsp-yyds/lsp-yyds/blob/main/github-contribution-grid-snake.svg)
